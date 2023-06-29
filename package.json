@@ -3,11 +3,11 @@
     "version": "1.0.0",
     "displayName": "World Locking Tools",
     "description": "Shared code across various projects",
-    "unity": "2021.3",
-    "unityRelease": "20f1",
-    "documentationUrl": "https://viewscreenxr.com/",
-    "changelogUrl": "https://viewscreenxr.com/changelog.html",
-    "licensesUrl": "https://viewscreenxr.com/licensing.html",
+    "unity": "2022.3",
+    "unityRelease": "0f1",
+    "documentationUrl": "https://viewscreen.com/",
+    "changelogUrl": "https://viewscreen.com/changelog.html",
+    "licensesUrl": "https://viewscreen.com/licensing.html",
     "dependencies": {
      
    },
@@ -16,8 +16,8 @@
     ],
     "author": {
       "name": "Microsoft",
-      "email": "support@floatingfactory.com",
-      "url": "https://viewscreenxr.com"
+      "email": "support@fuzzydoortech.com",
+      "url": "https://viewscreen.com"
     },
     "files": [
       "Scripts*",
