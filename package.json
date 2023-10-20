@@ -5,9 +5,9 @@
     "description": "Shared code across various projects",
     "unity": "2022.3",
     "unityRelease": "0f1",
-    "documentationUrl": "https://viewscreen.com/",
-    "changelogUrl": "https://viewscreen.com/changelog.html",
-    "licensesUrl": "https://viewscreen.com/licensing.html",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "",
     "dependencies": {
      
    },
